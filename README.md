@@ -21,9 +21,9 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-<script>
+<script\>
   window.opener.location.replace('https://evilzone.org');
-</script>
+</script\>
 
 **Bold** and _Italic_ and `Code` text
 
